@@ -1,2 +1,2 @@
 # SQL
-This repository contains all my notes about SQL
+This repository contains all my notes about SQL.
